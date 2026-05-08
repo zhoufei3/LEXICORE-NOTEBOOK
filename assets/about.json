@@ -1,0 +1,17 @@
+{
+  "appName": "LEXICORE NOTEBOOK",
+  "author": "周肥实用AI技巧",
+  "intro": "LEXICORE NOTEBOOK 是一个英语核心词库分类记忆工具，适合单词、短语和日常句子的整理、朗读、收藏与复习。",
+  "avatar": "assets/avatar.png",
+  "youtube": "https://www.youtube.com/@zhoufeiandai",
+  "donate": [
+    {
+      "name": "微信赞赏",
+      "image": "assets/wechat-reward.png"
+    },
+    {
+      "name": "支付宝",
+      "image": "assets/alipay.png"
+    }
+  ]
+}
