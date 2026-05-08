@@ -1,0 +1,13 @@
+{
+  "version": "v1.0.1",
+  "notice_title": "发现新版本",
+  "notice": "修复问题并优化体验。",
+  "changelog": [
+    "新增关于页面",
+    "支持从 GitHub 读取作者信息、头像和打赏码",
+    "新增自动检查更新弹窗"
+  ],
+  "download_url": "https://github.com/zhoufei3/LEXICORE-NOTEBOOK/releases/latest",
+  "force_update": false,
+  "show_update": true
+}
